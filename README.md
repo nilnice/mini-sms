@@ -6,7 +6,7 @@
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/nilnice/payment.svg?style=flat-square)](https://scrutinizer-ci.com/g/nilnice/payment/)
 [![StyleCI](https://styleci.io/repos/119123605/shield?branch=master)](https://styleci.io/repos/119123605)
 
-♨️ 让发送短信更加容易
+📲 让发送短信更加容易
 
 ### 简介
 
