@@ -1,0 +1,29 @@
+{
+  "name": "nilnice/mini-sms",
+  "description": "让发送短信更加容易",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nilnice",
+      "email": "nilnice@126.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.3",
+    "illuminate/config": "^5.5",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nilnice\\MiniSms\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Nilnice\\MiniSms\\Test\\": "tests"
+    }
+  }
+}
