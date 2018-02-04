@@ -2,9 +2,9 @@
 
 ***
 
-[![Travis branch](https://img.shields.io/travis/nilnice/payment/master.svg?style=flat-square)](https://travis-ci.org/nilnice/payment)
-[![Scrutinizer](https://img.shields.io/scrutinizer/g/nilnice/payment.svg?style=flat-square)](https://scrutinizer-ci.com/g/nilnice/payment/)
-[![StyleCI](https://styleci.io/repos/119123605/shield?branch=master)](https://styleci.io/repos/119123605)
+[![Travis branch](https://img.shields.io/travis/nilnice/mini-sms/master.svg?style=flat-square)](https://travis-ci.org/nilnice/mini-sms)
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/nilnice/mini-sms.svg?style=flat-square)](https://scrutinizer-ci.com/g/nilnice/mini-sms/)
+[![StyleCI](https://styleci.io/repos/120073505/shield?branch=master)](https://styleci.io/repos/120073505)
 
 📲 让发送短信更加容易
 
